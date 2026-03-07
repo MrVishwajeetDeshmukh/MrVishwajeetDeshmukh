@@ -11,7 +11,7 @@ Backend engineer with hands‑on experience building **high‑throughput communi
 
 ---
 
-## 📈 Impact Highlights (FAANG‑Style)
+## 📈 Impact Highlights
 
 * 🚀 Built **turnkey RCS messaging platform** handling large‑scale enterprise communication
 * ⚡ Optimized DB queries & architecture → improved throughput & reduced latency in production
