@@ -17,4 +17,4 @@ Go (Fiber, Gin, net/http), PostgreSQL, MySQL, ScyllaDB, Redis, Apache Kafka, Doc
 
 #### Elsewhere
 
-[vishwajeetdeshmukh.netlify.app](https://vishwajeetdeshmukh.netlify.app) · [LinkedIn](https://www.linkedin.com/in/vishwajeetd/) · deshmukhv.vishwajeet@gmail.com
+[vishwajeetd.com](https://vishwajeetd.com) · [LinkedIn](https://www.linkedin.com/in/vishwajeetd/) · deshmukhv.vishwajeet@gmail.com
